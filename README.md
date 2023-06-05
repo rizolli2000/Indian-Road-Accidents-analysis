@@ -16,6 +16,4 @@ Visualization: Create interactive visualizations using Python libraries such as 
 
 Recommendations: Based on the analysis findings, propose recommendations and potential solutions to address road accidents in India. This may involve suggestions for infrastructure improvements, awareness campaigns, stricter law enforcement, or driver education programs.
 
-The project will be implemented using Python programming language and relevant libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib. The code, datasets, and analysis results will be shared on GitHub, allowing other researchers, data scientists, and policymakers to review, replicate, and contribute to the project.
-
 By analyzing road accident data in India and providing actionable insights, this project aims to contribute to the development of effective road safety measures and policies, ultimately reducing the number of accidents and saving lives.
